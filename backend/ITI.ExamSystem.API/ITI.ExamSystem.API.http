@@ -1,0 +1,6 @@
+@ITI.ExamSystem.API_HostAddress = http://localhost:5010
+
+GET {{ITI.ExamSystem.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
